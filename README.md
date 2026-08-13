@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0143-reorder-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0143-reorder-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0445-add-two-numbers-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [3360-stone-removal-game](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3360-stone-removal-game/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
