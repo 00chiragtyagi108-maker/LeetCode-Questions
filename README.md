@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0143-reorder-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0705-design-hashset](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0705-design-hashset/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0445-add-two-numbers-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [3360-stone-removal-game](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3360-stone-removal-game/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
