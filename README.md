@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0143-reorder-list/) | Medium |
+| [0155-min-stack](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0155-min-stack/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0155-min-stack/) | Medium |
 | [0705-design-hashset](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0705-design-hashset/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
