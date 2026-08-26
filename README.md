@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0445-add-two-numbers-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1360-number-of-days-between-two-dates](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [2409-count-days-spent-together](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3360-stone-removal-game](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3360-stone-removal-game/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0389-find-the-difference/) | Easy |
 | [0709-to-lower-case](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0709-to-lower-case/) | Easy |
+| [1360-number-of-days-between-two-dates](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [2409-count-days-spent-together](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
