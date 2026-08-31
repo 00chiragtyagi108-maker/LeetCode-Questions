@@ -1,34 +1,30 @@
 class Solution {
 public:
 
-    vector<vector<int>> makeSubset(vector<int>& arr, int ind , int size, vector<int>& subsetVector){
+    void makeSubset(vector<int>& arr, int ind , vector<vector<int>>& ans, vector<int>& subset){
         
         
-        if(size == ind){
-
-            return{ subsetVector };
+        if(ind == arr.size()){
+            ans.push_back(subset) ;
+            return ;
         
         }
         
-        subsetVector.push_back(arr[ind]) ;
-        vector<vector<int>> included = makeSubset(arr, ind + 1 , size , subsetVector);
+        subset.push_back(arr[ind]) ;
+        makeSubset(arr, ind + 1 , ans , subset);
 
-        subsetVector.pop_back() ;
-        vector<vector<int>> excluded = makeSubset(arr, ind + 1, size , subsetVector);
+        subset.pop_back() ;
+        makeSubset(arr, ind + 1, ans , subset);
         
-        included.insert(included.end() , excluded.begin() , excluded.end() ) ;
-        return included ;
         }
 
     
     vector<vector<int>> subsets(vector<int>& nums) {
 
-        int n = nums.size() ;
         vector<vector<int>> ans ;
-        int i = 0;
-        vector<int> aux ;
+        vector<int> subset ;
 
-        ans = makeSubset(nums , i , n , aux) ;
+        makeSubset(nums , 0 , ans , subset) ;
 
         return ans;
 
