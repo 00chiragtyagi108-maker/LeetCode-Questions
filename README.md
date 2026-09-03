@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0078-subsets/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0455-assign-cookies/) | Easy |
+| [0495-teemo-attacking](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0495-teemo-attacking/) | Easy |
 | [0500-keyboard-row](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0500-keyboard-row/) | Easy |
 | [0705-design-hashset](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0706-design-hashmap/) | Easy |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0495-teemo-attacking](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0495-teemo-attacking/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3360-stone-removal-game](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3360-stone-removal-game/) | Easy |
 ## String
