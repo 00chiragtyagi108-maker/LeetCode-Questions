@@ -207,4 +207,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
