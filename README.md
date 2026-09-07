@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1051-height-checker](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1122-relative-sort-array/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -211,4 +212,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0175-combine-two-tables/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 <!---LeetCode Topics End-->
