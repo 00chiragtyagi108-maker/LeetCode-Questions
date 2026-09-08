@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -156,12 +157,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -169,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
