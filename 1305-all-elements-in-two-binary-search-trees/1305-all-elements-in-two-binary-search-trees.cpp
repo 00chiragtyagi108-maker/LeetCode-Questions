@@ -13,28 +13,23 @@ class Solution {
 public:
 
     
-    vector<int> inorderTraversal(TreeNode* root) {
-        if(root == nullptr) return {} ;
+    void inorder(TreeNode* root, vector<int>& v) {
+        if (!root) return;
 
-        vector<int> ans ;
-
-        vector<int> left = inorderTraversal(root -> left) ;
-        ans.push_back(root -> val) ;
-        vector<int> right = inorderTraversal(root -> right) ;
-
-        left.insert(left.end(),ans.begin() , ans.end());
-        left.insert(left.end(),right.begin() , right.end());
-
-        return left ;
+        inorder(root->left, v);
+        v.push_back(root->val);
+        inorder(root->right, v);
     }
 
 
     vector<int> getAllElements(TreeNode* root1, TreeNode* root2) {
         
-        vector<int> ans1 = inorderTraversal(root1) ;
+        vector<int> ans1  ;
+        inorder(root1 , ans1) ;
         int n1 = ans1.size() ;
 
-        vector<int> ans2 = inorderTraversal(root2) ;
+        vector<int> ans2  ;
+        inorder(root2 ,ans2) ;
         int n2 = ans2.size() ;
 
         int i = 0;int j = 0;
