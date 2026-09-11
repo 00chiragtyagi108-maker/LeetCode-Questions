@@ -15,7 +15,7 @@ public:
     void inorder(TreeNode* root , vector<int> &v){
 
         if(root == nullptr) return ;
-        
+
         inorder(root -> left , v);
         v.push_back(root -> val) ;
         inorder(root -> right , v) ;
@@ -26,16 +26,12 @@ public:
 
         inorder(root , aux) ;
 
+        
         int n = aux.size() ;
         int mini = INT_MAX ;
 
-        for(int i = 0;i < n-1;i++){
-            for(int j = i+1 ;j < n;j++) {
-                int temp = abs(aux[i]-aux[j]) ;
-                if(temp < mini){
-                    mini = temp ;
-                }
-            }
+        for(int i = 1;i < n ;i++){
+            mini = min(mini, aux[i] - aux[i - 1]);
         }
         return mini ;
     }
