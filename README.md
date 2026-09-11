@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -185,10 +188,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
