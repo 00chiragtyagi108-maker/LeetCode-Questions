@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0705-design-hashset](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0706-design-hashmap/) | Easy |
+| [0771-jewels-and-stones](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1122-relative-sort-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1122-relative-sort-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0500-keyboard-row](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0500-keyboard-row/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0709-to-lower-case/) | Easy |
+| [0771-jewels-and-stones](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [2409-count-days-spent-together](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
