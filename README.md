@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0705-design-hashset](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0706-design-hashmap/) | Easy |
+| [0912-sort-an-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1051-height-checker](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1051-height-checker/) | Easy |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0389-find-the-difference/) | Easy |
 | [0455-assign-cookies](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0455-assign-cookies/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0912-sort-an-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1051-height-checker](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1122-relative-sort-array/) | Easy |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0912-sort-an-array/) | Medium |
 | [1051-height-checker](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1122-relative-sort-array/) | Easy |
 ## Bubble Sort
@@ -279,18 +282,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0912-sort-an-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0912-sort-an-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0912-sort-an-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0912-sort-an-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -304,4 +310,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
