@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0176-second-highest-salary/) | Medium |
+| [0584-find-customer-referee](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0584-find-customer-referee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
