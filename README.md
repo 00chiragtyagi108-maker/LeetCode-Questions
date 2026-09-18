@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0078-subsets/) | Medium |
 | [0389-find-the-difference](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0389-find-the-difference/) | Easy |
 | [0461-hamming-distance](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0461-hamming-distance/) | Easy |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Design
 | Problem Name | Difficulty |
