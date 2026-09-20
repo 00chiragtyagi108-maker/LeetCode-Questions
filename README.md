@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0495-teemo-attacking](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0495-teemo-attacking/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3360-stone-removal-game](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3360-stone-removal-game/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2409-count-days-spent-together](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
