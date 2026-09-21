@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1266-minimum-time-visiting-all-points](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1360-number-of-days-between-two-dates/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2409-count-days-spent-together](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3360-stone-removal-game](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3360-stone-removal-game/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0461-hamming-distance](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0461-hamming-distance/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
+| [1486-xor-operation-in-an-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Design
 | Problem Name | Difficulty |
