@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0389-find-the-difference/) | Easy |
 | [0443-string-compression](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0459-repeated-substring-pattern](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0500-keyboard-row](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0500-keyboard-row/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -368,4 +369,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0338-counting-bits/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->
