@@ -8,15 +8,23 @@ public:
 
         while(i <= n/2 ) {
 
-            string ans = "" ;
+            if(n % i != 0){
+                i++ ;
+                continue ;
+            }
 
-            for(int j = 0 ; j < n/i ; j++ ) {
-                ans += s.substr(0,i) ;
-                if(ans == s){
-                    return true ;
+            bool flag = true ;
+
+            for(int j = i ; j < n ; j++) {
+                if(s[j] != s[j % i ]) {
+                    flag = false ;
+                    break ;
                 }
             }
+            if(flag) return true ;
+
             i++ ;
+        
         }
         return false ;
     }
