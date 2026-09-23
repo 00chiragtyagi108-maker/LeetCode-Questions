@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -75,11 +76,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Prefix Sum
@@ -88,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Hash Table
@@ -108,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0706-design-hashmap](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0706-design-hashmap/) | Easy |
 | [0771-jewels-and-stones](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1122-relative-sort-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1122-relative-sort-array/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
