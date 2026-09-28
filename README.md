@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0078-subsets/) | Medium |
+| [0190-reverse-bits](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0190-reverse-bits/) | Easy |
 | [0260-single-number-iii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0260-single-number-iii/) | Medium |
 | [0338-counting-bits](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0338-counting-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0389-find-the-difference/) | Easy |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0148-sort-list](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0148-sort-list/) | Medium |
+| [0190-reverse-bits](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0190-reverse-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
