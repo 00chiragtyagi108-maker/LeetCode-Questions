@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1360-number-of-days-between-two-dates](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1360-number-of-days-between-two-dates/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2409-count-days-spent-together](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -396,4 +398,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
