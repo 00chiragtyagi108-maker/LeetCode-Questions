@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0705-design-hashset](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0706-design-hashmap/) | Easy |
 ## Counting
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0572-subtree-of-another-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0572-subtree-of-another-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -275,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0572-subtree-of-another-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -412,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
