@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -282,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
