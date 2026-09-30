@@ -44,8 +44,6 @@ public:
         
         TreeNode* ansNode = findNode( root , subRoot ) ;
 
-        if(ansNode == nullptr) return false ;
-
-        return isSame( ansNode , subRoot ) ;
+         return (ansNode != nullptr) ;
     }
 };
