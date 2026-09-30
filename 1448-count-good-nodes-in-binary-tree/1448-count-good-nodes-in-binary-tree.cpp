@@ -16,21 +16,17 @@ public:
         
         if(root == nullptr) return 0 ;
 
-        int count = 0 ;
-
-        if( root -> val >= maxi ){
-            maxi = root ->val ;
-            count++ ;
-        }   
+        int good = root -> val >= maxi  ;
+        maxi = max(maxi , root -> val ) ;
         
-        return count + isGood(root -> left , maxi) + isGood(root -> right , maxi); ;
+        return good + isGood(root -> left , maxi) + isGood(root -> right , maxi); ;
     }
 
 
 
     int goodNodes(TreeNode* root) {
         
-        int ans = isGood(root , root -> val ) ;
-        return ans ;
+        return isGood(root , root -> val ) ;
+
     }
 };
