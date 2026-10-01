@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0383-ransom-note](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0383-ransom-note/) | Easy |
