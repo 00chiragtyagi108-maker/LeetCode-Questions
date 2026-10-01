@@ -12,30 +12,28 @@
 class Solution {
 public:
 
-    void inorder(TreeNode* root , vector<TreeNode*> &arr) { //pass by reference not by value otherwise for every recursive call a new arr will be made
+    TreeNode* curr = nullptr ;
+    void inorder(TreeNode* root ) { 
 
         if(root == nullptr) return  ;
 
-        inorder(root -> left , arr) ;
-        arr.push_back(root) ;
-        inorder(root -> right , arr) ;
+        inorder(root -> left ) ;
+
+        root -> left = nullptr ;
+        curr -> right = root ;
+        curr = root ;
+
+        inorder(root -> right ) ;
 
     }
 
     TreeNode* increasingBST(TreeNode* root) {
          
-        vector<TreeNode*> aux ;
-        inorder(root , aux) ;
+       TreeNode* dummy = new TreeNode(0) ;
+       curr = dummy ;
+       inorder(root) ;
 
-        TreeNode* ans = aux[0] ;
+       return dummy -> right ;
 
-        for(int i = 0;i < aux.size()-1 ;i++ ) {
-            aux[i] -> left = nullptr ;
-            aux[i] -> right = aux[i+1] ;
-        }
-
-        aux.back() -> left = nullptr ;
-        aux.back() -> right = nullptr ;
-        return ans ;
     }
 };
