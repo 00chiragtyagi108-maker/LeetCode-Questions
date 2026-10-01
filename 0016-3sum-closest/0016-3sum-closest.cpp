@@ -16,32 +16,21 @@ public:
         while(left < right){
             int total = nums[left] + nums[i] + nums[right];
 
-            if(total == target) {
-                left++ ;
-                right-- ;
-
-                while(left < right && nums[left]==nums[left-1]) {
-                    left++ ;
-                }
-
-                while(left < right && right < n-1 && nums[right]==nums[right+1]) {
-                    right-- ;
-                }
-            }
-            else{
-                if(total < target) {
-                    left++ ;
-                }
-                else{
-                    right-- ;
-                }
-            }
-
             if(abs(total-target) < abs(closest - target)) {
                 closest = total ;
             }
-        }
-     }
+
+            if(total == target) 
+                return target ;
+            
+            if(total < target) 
+                    left++ ;
+
+            else
+                right-- ;
+            
+        }        
+    }
     return closest;
     }
 };
