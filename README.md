@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0383-ransom-note](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0389-find-the-difference/) | Easy |
@@ -347,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0078-subsets/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
@@ -421,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0338-counting-bits](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0338-counting-bits/) | Easy |
 ## String Matching
@@ -440,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
