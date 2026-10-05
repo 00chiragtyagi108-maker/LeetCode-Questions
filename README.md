@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0016-3sum-closest](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0016-3sum-closest/) | Medium |
 | [0078-subsets](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0078-subsets/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0350-intersection-of-two-arrays-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -390,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0148-sort-list](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0148-sort-list/) | Medium |
