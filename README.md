@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0709-to-lower-case](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0856-score-of-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1360-number-of-days-between-two-dates](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -467,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
