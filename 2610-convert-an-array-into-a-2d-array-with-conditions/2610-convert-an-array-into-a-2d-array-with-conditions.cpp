@@ -2,27 +2,20 @@ class Solution {
 public:
     vector<vector<int>> findMatrix(vector<int>& nums) {
         
-
-        vector<vector<int>> ans ;
         vector<int> freq(201,0) ;
-        vector<int> v ;
 
         for(int x:nums) {
             freq[x]++ ;
         }
 
-        int remaining = nums.size() ;
+        int maxElement = *max_element(freq.begin() , freq.end()) ;
 
-        while(remaining > 0) {
-            for(int i = 0; i < freq.size(); i++ ) {
-                if(freq[i] != 0) {
-                    v.push_back(i) ;
-                    freq[i]-- ;
-                    remaining-- ;
-                }
+        vector<vector<int>> ans (maxElement) ;
+
+        for(int i = 0; i < 201; i++ ) {
+            for(int j = 0; j < freq[i] ; j++) {
+                ans[j].push_back(i) ;
             }
-            ans.push_back(v) ;
-            v.clear() ;
         }
         return ans ;
     }
