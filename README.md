@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -393,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
