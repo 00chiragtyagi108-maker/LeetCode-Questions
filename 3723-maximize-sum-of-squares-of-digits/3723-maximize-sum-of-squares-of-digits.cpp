@@ -2,31 +2,25 @@ class Solution {
 public:
     string maxSumOfSquares(int num, int sum) {
 
+        // as each digit can have 9 at a place for maximumSum so sum should be less than 9 * num
+
+        if(sum > 9 * num) return "" ;
+
+        
         string ans = "" ;
 
-        int maximumSum = 9*num ; // as each digit can have 9 at max for large sum 
-
-        if(sum > maximumSum) return "" ;
-
-        vector<int> aux(10 , 0) ;
-
-        int cpy = sum ;
-        int digit = 9 ;
-
-        while(cpy >= 9) {
+        while(sum >= 9) {
             ans += '9' ;
-            cpy -= 9 ;
+            sum -= 9 ;
 
         }
 
-        if(cpy > 0) {
-            ans += to_string(cpy);
+        if(sum > 0) {
+            ans += to_string(sum);
         }
 
-        while(ans.size() < num) {
-            ans += '0' ;
-        }
-        
+            ans += string(num - ans.size() ,'0' ) ;
+
         return ans ;
     }
 };
