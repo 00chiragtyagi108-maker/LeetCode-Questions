@@ -319,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0938-range-sum-of-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -521,4 +523,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
