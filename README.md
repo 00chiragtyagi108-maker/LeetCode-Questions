@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0412-fizz-buzz/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0412-fizz-buzz/) | Easy |
 | [0495-teemo-attacking](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0495-teemo-attacking/) | Easy |
 | [1603-design-parking-system](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1603-design-parking-system/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0301-remove-invalid-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0383-ransom-note](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0389-find-the-difference/) | Easy |
+| [0412-fizz-buzz](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0412-fizz-buzz/) | Easy |
 | [0443-string-compression](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0459-repeated-substring-pattern/) | Easy |
