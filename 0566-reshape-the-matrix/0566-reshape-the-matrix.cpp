@@ -9,13 +9,9 @@ public:
 
         vector<vector<int>>ans(r , vector<int>(c)) ; 
 
-        for(int i = 0 ; i < m ; i++) {
-            for(int j = 0 ; j < n ; j++) {
-                int index = i*n + j ;
-
-                ans[index / c][index % c] = mat[i][j] ;
+        for(int i = 0 ; i < m * n ; i++) {
+                ans[i / c][i % c] = mat[i / n][i % n] ;
             }
-        }
         return ans ;
     }
 };
