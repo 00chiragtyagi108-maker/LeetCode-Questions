@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0705-design-hashset](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0706-design-hashmap/) | Easy |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0412-fizz-buzz/) | Easy |
 | [0495-teemo-attacking](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0495-teemo-attacking/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [1603-design-parking-system](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1603-design-parking-system/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3360-stone-removal-game](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3360-stone-removal-game/) | Easy |
@@ -441,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0566-reshape-the-matrix](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
