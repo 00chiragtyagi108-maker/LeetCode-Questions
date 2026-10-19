@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [2235-add-two-integers](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2235-add-two-integers/) | Easy |
 | [2409-count-days-spent-together](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3360-stone-removal-game](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3360-stone-removal-game/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
