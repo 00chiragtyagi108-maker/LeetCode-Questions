@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0260-single-number-iii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -410,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -508,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0338-counting-bits](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0338-counting-bits/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## String Matching
