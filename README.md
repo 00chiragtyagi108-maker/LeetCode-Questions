@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1716-calculate-money-in-leetcode-bank](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [2235-add-two-integers](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2235-add-two-integers/) | Easy |
 | [2409-count-days-spent-together](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2409-count-days-spent-together/) | Easy |
+| [2591-distribute-money-to-maximum-children](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2591-distribute-money-to-maximum-children/) | Easy |
 | [3360-stone-removal-game](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3360-stone-removal-game/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -418,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2591-distribute-money-to-maximum-children](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2591-distribute-money-to-maximum-children/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
