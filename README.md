@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0257-binary-tree-paths](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0383-ransom-note](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0389-find-the-difference/) | Easy |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
@@ -330,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
@@ -353,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
@@ -432,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0077-combinations](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0090-subsets-ii/) | Medium |
+| [0257-binary-tree-paths](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
