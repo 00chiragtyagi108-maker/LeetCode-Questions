@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0016-3sum-closest](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0016-3sum-closest/) | Medium |
+| [0046-permutations](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -439,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0022-generate-parentheses/) | Medium |
+| [0046-permutations](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0090-subsets-ii/) | Medium |
