@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0016-3sum-closest](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0016-3sum-closest/) | Medium |
 | [0046-permutations](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0046-permutations/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0078-subsets](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0412-fizz-buzz](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0412-fizz-buzz/) | Easy |
 | [0495-teemo-attacking](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0495-teemo-attacking/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0566-reshape-the-matrix/) | Easy |
@@ -469,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
