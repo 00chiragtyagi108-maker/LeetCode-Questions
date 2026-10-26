@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-count-good-nodes-in-binary-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -390,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-minimum-distance-between-bst-nodes](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -475,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -571,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
