@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0260-single-number-iii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0260-single-number-iii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0001-two-sum/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0383-ransom-note/) | Easy |
@@ -575,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
