@@ -3,16 +3,17 @@ public:
 
     vector<int> separateDigits(vector<int>& nums) {
         
-        reverse(nums.begin() , nums.end() ) ;
         vector<int> ans ;
 
         for(int num : nums ) {
+            vector<int> digits ;
             while(num != 0) {
-                ans.push_back(num % 10 ) ;
+                digits.push_back(num % 10 ) ;
                 num /= 10 ;
             }
+            reverse(digits.begin() , digits.end() ) ;
+            ans.insert(ans.end() , digits.begin() , digits.end()) ;
         }
-        reverse(ans.begin() , ans.end() ) ;
         return ans ;
     }
 };
