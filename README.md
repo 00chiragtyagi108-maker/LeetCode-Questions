@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1716-calculate-money-in-leetcode-bank](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2235-add-two-integers](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2235-add-two-integers/) | Easy |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
 | [2409-count-days-spent-together](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2591-distribute-money-to-maximum-children](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2591-distribute-money-to-maximum-children/) | Easy |
 | [3360-stone-removal-game](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3360-stone-removal-game/) | Easy |
@@ -575,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
