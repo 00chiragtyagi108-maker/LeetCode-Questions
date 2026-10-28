@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3718-smallest-missing-multiple-of-k](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -489,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1380-lucky-numbers-in-a-matrix](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -547,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0338-counting-bits](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0338-counting-bits/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
