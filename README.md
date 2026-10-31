@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0459-repeated-substring-pattern](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0500-keyboard-row](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0500-keyboard-row/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0583-delete-operation-for-two-strings](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0709-to-lower-case](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0709-to-lower-case/) | Easy |
@@ -554,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0338-counting-bits](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0338-counting-bits/) | Easy |
+| [0583-delete-operation-for-two-strings](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -618,5 +620,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
