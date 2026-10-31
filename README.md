@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0856-score-of-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1360-number-of-days-between-two-dates](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
@@ -554,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0338-counting-bits](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0338-counting-bits/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -613,4 +615,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
