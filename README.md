@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-find-target-indices-after-sorting-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0455-assign-cookies/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1122-relative-sort-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1122-relative-sort-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -195,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
