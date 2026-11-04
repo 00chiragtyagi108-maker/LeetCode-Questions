@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1051-height-checker](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1122-relative-sort-array/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0856-score-of-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-minimum-distance-between-bst-nodes](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
@@ -411,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-minimum-distance-between-bst-nodes](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
@@ -444,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-minimum-distance-between-bst-nodes](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -496,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0739-daily-temperatures/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Database
 | Problem Name | Difficulty |
