@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1720-decode-xored-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1720-decode-xored-array/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1122-relative-sort-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1122-relative-sort-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1748-sum-of-unique-elements](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -343,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1603-design-parking-system](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1603-design-parking-system/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
