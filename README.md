@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -590,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1143-longest-common-subsequence/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
