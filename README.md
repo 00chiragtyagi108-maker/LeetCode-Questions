@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1323-maximum-69-number](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1323-maximum-69-number/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
@@ -485,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1323-maximum-69-number](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1323-maximum-69-number/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
