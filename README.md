@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0412-fizz-buzz/) | Easy |
@@ -369,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
@@ -420,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
@@ -460,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
@@ -609,6 +613,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0096-unique-binary-search-trees](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0338-counting-bits](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0338-counting-bits/) | Easy |
 | [0583-delete-operation-for-two-strings](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
