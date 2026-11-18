@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0263-ugly-number](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0263-ugly-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0412-fizz-buzz/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
