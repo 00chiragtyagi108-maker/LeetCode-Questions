@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2937-make-three-strings-equal](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2937-make-three-strings-equal/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Bit Manipulation
