@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1629-slowest-key](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1629-slowest-key/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
