@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1323-maximum-69-number](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1323-maximum-69-number/) | Easy |
@@ -638,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0338-counting-bits/) | Easy |
 | [0583-delete-operation-for-two-strings](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -708,4 +710,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 <!---LeetCode Topics End-->
