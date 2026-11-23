@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1051-height-checker](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1122-relative-sort-array/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1381-design-a-stack-with-increment-operation](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1266-minimum-time-visiting-all-points](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1323-maximum-69-number](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1323-maximum-69-number/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1360-number-of-days-between-two-dates](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
@@ -360,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0705-design-hashset](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0706-design-hashmap/) | Easy |
 | [0707-design-linked-list](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0707-design-linked-list/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1603-design-parking-system](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1603-design-parking-system/) | Easy |
 ## Hash Function
@@ -698,4 +702,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1143-longest-common-subsequence/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
