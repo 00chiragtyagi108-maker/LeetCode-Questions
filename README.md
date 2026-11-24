@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1051-height-checker](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1122-relative-sort-array/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0705-design-hashset](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0706-design-hashmap/) | Easy |
 | [0771-jewels-and-stones](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0771-jewels-and-stones/) | Easy |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1122-relative-sort-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1122-relative-sort-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -385,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1603-design-parking-system](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1603-design-parking-system/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
