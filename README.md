@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0260-single-number-iii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0455-assign-cookies/) | Easy |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0389-find-the-difference/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -528,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0605-can-place-flowers/) | Easy |
@@ -648,6 +651,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0198-house-robber/) | Medium |
 | [0264-ugly-number-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0338-counting-bits](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0338-counting-bits/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1137-n-th-tribonacci-number/) | Easy |
