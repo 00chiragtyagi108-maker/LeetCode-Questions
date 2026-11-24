@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2409-count-days-spent-together](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2591-distribute-money-to-maximum-children](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2591-distribute-money-to-maximum-children/) | Easy |
 | [3360-stone-removal-game](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3360-stone-removal-game/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -680,6 +683,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -716,4 +720,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
