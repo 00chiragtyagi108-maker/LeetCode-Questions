@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0389-find-the-difference/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0561-array-partition](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0561-array-partition/) | Easy |
@@ -532,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0605-can-place-flowers/) | Easy |
