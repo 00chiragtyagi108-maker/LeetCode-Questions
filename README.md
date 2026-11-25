@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1720-decode-xored-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1720-decode-xored-array/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
@@ -543,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1323-maximum-69-number](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1323-maximum-69-number/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
