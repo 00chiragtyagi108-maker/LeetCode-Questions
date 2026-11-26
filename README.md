@@ -336,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1221-split-a-string-in-balanced-strings](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -398,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
+| [1221-split-a-string-in-balanced-strings](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1603-design-parking-system](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1603-design-parking-system/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
@@ -542,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0605-can-place-flowers/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1221-split-a-string-in-balanced-strings](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1323-maximum-69-number](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1323-maximum-69-number/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
