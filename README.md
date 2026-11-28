@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1629-slowest-key](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1629-slowest-key/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1122-relative-sort-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1122-relative-sort-array/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1352-product-of-the-last-k-numbers](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1360-number-of-days-between-two-dates](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
@@ -573,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1221-split-a-string-in-balanced-strings](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1323-maximum-69-number](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1323-maximum-69-number/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -790,4 +794,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/00chiragtyagi108-maker/LeetCode-Questions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 <!---LeetCode Topics End-->
